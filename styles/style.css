@@ -1,0 +1,26 @@
+/* header styles */
+.container {
+    width: 1,919.79px;
+    height: 191.72px;
+    background-color: green;
+    
+    }
+.logo {
+    vertical-align: middle;
+    width: 198.79px;
+    height: 53.72px;
+    display: inline-block;
+    margin-top: 69px;
+    margin-right: 150px;
+    margin-bottom: 69px;
+    margin-left: 162px;
+}
+.navigation {
+    text-align: center;
+    display: inline-block;
+    width: 564px;
+    height: 23px;
+}
+.nav-li {
+       display: inline-block;
+}
