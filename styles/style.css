@@ -15,12 +15,13 @@
     margin-bottom: 69px;
     margin-left: 162px;
 }
-.navigation {
-    text-align: center;
+.nav-bar {
     display: inline-block;
     width: 564px;
     height: 23px;
-}
-.nav-li {
-       display: inline-block;
-}
+    text-align: center;
+    padding-top: 15.36px;
+    padding-bottom: 15.36px;
+    color: #274C5B;
+    font-size: 20px;
+   }
