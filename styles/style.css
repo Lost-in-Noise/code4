@@ -2,13 +2,23 @@
 .navigation {
     display: inline-block;
     vertical-align: middle;
+    padding-top: 84.36px;
+    padding-bottom: 84.36px;
    }
 .nav-li {
     display: inline-block;
+    margin-right: 30px;
+}
+.li {
+    font-size: 20px;
+    color: #274C5B;
 }
 .logo {
     vertical-align: middle;
-    margin: ;
+    width: 198.79px;
+    height: 53.72px;
+    margin-right: 150px;
+    margin-left: 162px;
 }
 .header-bg {
     background-color: #FFFFFF;
