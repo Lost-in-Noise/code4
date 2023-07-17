@@ -29,4 +29,27 @@
 .policy-box {
     display: inline-block;
     width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+    margin-left: 30px;
 }
+.policy-text {
+    text-align: center;
+    font-size: 18px;
+    color: #525C60;
+    margin-top: 20px;
+    padding: 0px 37px 142px 36px;
+}
+.policy-title {
+    font-size: 25px;
+    color: #274C5B;
+    padding: 29px 83px 0px 22px;
+}
+.container-block {
+    width: 1,118px;
+    padding-top: 91px;
+    padding-bottom: 189px;
+    text-align: center;
+    /* margin: auto;-მ არ იმუშავა*/
+}
+
