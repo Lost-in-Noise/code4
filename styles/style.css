@@ -30,11 +30,41 @@
 .main-content-left {
     display: inline-block;
     width: 671px;
-    vertical-align: middle;
+    vertical-align: top;
+    text-align: left;
+}
+.title {
+    font-size: 36px;
+    color: #7EB693;
+    padding-right: 316px;
+    padding-left: 0px;
+    margin-bottom: 6px;
+    text-align: left;
+}
+.slogan {
+    font-size: 50px;
+    color: #274C5B;
+}
+.description {
+    font-size: 18px;
+    color: #525C60;
+}
+.point-title {
+    font-size: 20px;
+    color: #274C5B;
 }
 .main-content-right {
     display: inline-block;
-    vertical-align: middle;
+    padding-top: 22.5px;
+    padding-bottom: 22.5px;
+    margin-left: 51px;
+    /* vertical-align: top; */
+}
+.main-content-block {
+    width: 1,400px;
+    height: 624px;
+    padding-top: 49.28px;
+    text-align: center;
 }
 /* policy section styles */
 .policy-box {
