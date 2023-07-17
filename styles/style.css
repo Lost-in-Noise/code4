@@ -1,27 +1,32 @@
 /* header styles */
-.container {
-    width: 1,919.79px;
-    height: 191.72px;
-    background-color: green;
-    
-    }
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+   }
+.nav-li {
+    display: inline-block;
+}
 .logo {
     vertical-align: middle;
-    width: 198.79px;
-    height: 53.72px;
-    display: inline-block;
-    margin-top: 69px;
-    margin-right: 150px;
-    margin-bottom: 69px;
-    margin-left: 162px;
 }
-.nav-bar {
+.header-bg {
+    background-color: #FFFFFF;
+}
+/* main styles */
+.main-bg {
+    background-color: #F9F8F8;
+}
+.main-content-left {
     display: inline-block;
-    width: 564px;
-    height: 23px;
-    text-align: center;
-    padding-top: 15.36px;
-    padding-bottom: 15.36px;
-    color: #274C5B;
-    font-size: 20px;
-   }
+    width: 671px;
+    vertical-align: middle;
+}
+.main-content-right {
+    display: inline-block;
+    vertical-align: middle;
+}
+/* policy section styles */
+.policy-box {
+    display: inline-block;
+    width: 257px;
+}
