@@ -37,21 +37,44 @@
     font-size: 36px;
     color: #7EB693;
     padding-right: 316px;
-    padding-left: 0px;
     margin-bottom: 6px;
     text-align: left;
 }
 .slogan {
     font-size: 50px;
     color: #274C5B;
+    width: 524px;
+    height: 118px;
 }
-.description {
+.slogan-description {
     font-size: 18px;
     color: #525C60;
+    margin-top: 25px;
+    margin-bottom: 36px;
 }
 .point-title {
     font-size: 20px;
     color: #274C5B;
+    display: inline-block;
+}
+.point-description1 {
+    font-size: 18px;
+    color: #525C60;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+.point-description2 {
+    font-size: 18px;
+    color: #525C60;
+    margin-top: 12px;
+}
+.point-box {
+    background-color: #ECECEC;
+    width: 339px;
+    height: 81px;
+}
+.point-icon {
+   vertical-align: middle; 
 }
 .main-content-right {
     display: inline-block;
