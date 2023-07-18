@@ -51,22 +51,31 @@
     color: #525C60;
     margin-top: 25px;
     margin-bottom: 36px;
+    width: 671px;
+    height: 60px;
 }
 .point-title {
     font-size: 20px;
     color: #274C5B;
     display: inline-block;
+    vertical-align: middle;
 }
 .point-description1 {
     font-size: 18px;
     color: #525C60;
     margin-top: 12px;
     margin-bottom: 24px;
+    padding-left: 60px;
+    width: 444px;
+    height: 60px;
 }
 .point-description2 {
     font-size: 18px;
     color: #525C60;
     margin-top: 12px;
+    padding-left: 60px;
+    width: 444px;
+    height: 60px;
 }
 .point-box {
     background-color: #ECECEC;
@@ -74,7 +83,11 @@
     height: 81px;
 }
 .point-icon {
-   vertical-align: middle; 
+   vertical-align: middle;
+   padding-top: 31px;
+   padding-bottom: 31px;
+   padding-left: 27px;
+   margin-right: 7px;
 }
 .main-content-right {
     display: inline-block;
@@ -84,10 +97,12 @@
     /* vertical-align: top; */
 }
 .main-content-block {
-    width: 1,400px;
+    width: 1400px;
     height: 624px;
     padding-top: 49.28px;
-    text-align: center;
+    /* text-align: center; */
+    margin-right: auto;
+    margin-left: auto;
 }
 /* policy section styles */
 .policy-box {
