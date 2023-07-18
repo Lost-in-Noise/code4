@@ -41,6 +41,7 @@
     margin-bottom: 6px;
     text-align: left;
     font-family: 'Yellowtail', cursive;
+    line-height: 49.06px;
 }
 .slogan {
     font-size: 50px;
@@ -48,6 +49,7 @@
     width: 524px;
     height: 118px;
     font-family: 'Roboto', sans-serif;
+    line-height: 58.59px;
 }
 .slogan-description {
     font-size: 18px;
@@ -57,6 +59,7 @@
     width: 671px;
     height: 60px;
     font-family: 'Open Sans', sans-serif;
+    line-height: 29.77px;
 }
 .point-title {
     font-size: 20px;
@@ -64,6 +67,7 @@
     display: inline-block;
     vertical-align: middle;
     font-family: 'Roboto', sans-serif;
+    line-height: 23.44px;
 }
 .point-description1 {
     font-size: 18px;
@@ -74,6 +78,7 @@
     width: 444px;
     height: 60px;
     font-family: 'Open Sans', sans-serif;
+    line-height: 29.77px;
 }
 .point-description2 {
     font-size: 18px;
@@ -83,6 +88,7 @@
     width: 444px;
     height: 60px;
     font-family: 'Open Sans', sans-serif;
+    line-height: 29.77px;
 }
 .point-box {
     background-color: #ECECEC;
@@ -126,12 +132,14 @@
     margin-top: 20px;
     padding: 0px 37px 142px 36px;
     font-family: 'Open Sans', sans-serif;
+    line-height: 29.77px;
 }
 .policy-title {
     font-size: 25px;
     color: #274C5B;
     padding: 29px 83px 0px 22px;
     font-family: 'Roboto', sans-serif;
+    line-height: 29.3px;
 }
 .container-block {
     width: 1,118px;
